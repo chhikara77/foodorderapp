@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+download the folder and open into vs code or webstorm
+and run the cmd npm i in your console then run npm start
 
 ### `npm start`
 
